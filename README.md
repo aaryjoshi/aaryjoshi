@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaryjoshi
 - 👀 I’m interested in web devloptment,AI,c++,competitive programing.
 - 🌱 I’m currently learning MERN.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate to frontend,node.js.
 - 📫 How to reach me aaryjoshi18@gmail.com
 
 <!---
